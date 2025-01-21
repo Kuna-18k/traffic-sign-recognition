@@ -10,3 +10,6 @@ Add support for real-time traffic sign detection from videos or live camera feed
 Expand the dataset for better recognition of non-German traffic signs.
 Deploy the application on a cloud platform like AWS, Azure, or Heroku.
    Thank you for being over here!
+
+   NOTE:-I HAVE GIVEN THE SOME OF TRAFFIC SIGN IMAGE FOR DUE TO SORT ISSUES SO IF YOU NEED THE DATASETS THEN PLEASE DIRECTLY CONTACT ME WITHOUT ANY HESITATION. 
+       THANK YOU!
